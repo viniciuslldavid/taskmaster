@@ -29,7 +29,7 @@ class _MainScreenState extends State<MainScreen> {
         duration: const Duration(milliseconds: 250),
         child: ListView(
           children: const [
-            Task('assets/images/andardeskate.webp', 'Andar de skate', 5),
+            Task('assets/images/andardeskate2.jpg', 'Andar de skate', 3),
             Task('assets/images/bike.jpeg', 'Andar de bike', 3),
             Task('assets/images/flutter.png', 'Aprender Flutter', 4),
             Task('assets/images/livro.jpg', 'Ler', 1),
